@@ -1,0 +1,223 @@
+# \[Web]Bootstrap Task
+
+| 标签  |   |
+| --- | - |
+| END |   |
+
+*   2022最新完整版web前端框架Bootstrap5从入门到精通教程(1508m)(25h) \[[\[Web\]Bootstrap](\[Web]Bootstrap_u7Ak1kdCmPN7gbVGVC2QCK.md "\[Web]Bootstrap")]
+
+    *   [x] [1 01\_Bootstrap  简介\_Duration-5Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=1 "1 01_Bootstrap  简介_Duration-5Min")
+
+    *   [x] [2 02\_Bootstrap5安装\_Duration-9Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=2 "2 02_Bootstrap5安装_Duration-9Min")
+
+    *   [ ] [3 03\_Bootstrap5容器\_Duration-10Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=3 "3 03_Bootstrap5容器_Duration-10Min")
+
+        *   \[笔记]
+
+            ![](../image/image_YLOt5Q4rwk.png)
+
+            ![](../image/image_g0fQPlohix.png)
+
+            ![](../image/image_GpdK-sHOPp.png)
+
+    *   [ ] [4 04\_ Bootstrap5 网格\_Duration-11Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=4 "4 04_ Bootstrap5 网格_Duration-11Min")
+
+        *   \[笔记]
+
+            ![](../image/image_NPlA9J3s-j.png)
+
+            ![](../image/image_JWZCSzGsCA.png)
+
+            ![](../image/image_25w6Wuag5B.png)
+
+
+
+    *   [ ] [5 05\_ Bootstrap5 不等宽响应式列\_Duration-6Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=5 "5 05_ Bootstrap5 不等宽响应式列_Duration-6Min")
+
+    *   [ ] [6 06\_Bootstrap5 网格嵌套列\_Duration-5Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=6 "6 06_Bootstrap5 网格嵌套列_Duration-5Min")
+
+    *   [ ] [7 07\_Bootstrap5 网格偏移列\_Duration-6Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=7 "7 07_Bootstrap5 网格偏移列_Duration-6Min")列偏移
+
+    *   [ ] [8 08\_Bootstrap5 网格列顺序\_Duration-8Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=8 "8 08_Bootstrap5 网格列顺序_Duration-8Min")
+
+    *   [ ] [9 09\_Bootstrap5 网格排序规则\_Duration-9Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=9 "9 09_Bootstrap5 网格排序规则_Duration-9Min")
+
+    *   [ ] [10 10\_Bootstrap5排版标题\_Duration-8Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=10 "10 10_Bootstrap5排版标题_Duration-8Min")
+
+    *   [ ] [11 11\_文本对齐截取\_Duration-9Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=11 "11 11_文本对齐截取_Duration-9Min")
+
+    *   [ ] [12 12\_文本大小行高粗体\_Duration-16Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=12 "12 12_文本大小行高粗体_Duration-16Min")
+
+    *   [ ] [13 13\_Bootstrap5颜色\_Duration-17Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=13 "13 13_Bootstrap5颜色_Duration-17Min")
+
+        *   \[笔记]
+
+            ![](../image/image_n7uBi55-fJ.png)
+
+    *   [ ] [14 14\_颜色颜色类\_Duration-6Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=14 "14 14_颜色颜色类_Duration-6Min")
+
+    *   [ ] [15 15\_Bootstrap列表\_Duration-8Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=15 "15 15_Bootstrap列表_Duration-8Min")
+
+    *   [ ] [16 16\_Bootstrap创建基础列表组\_Duration-7Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=16 "16 16_Bootstrap创建基础列表组_Duration-7Min")
+
+    *   [ ] [17 17\_列表组样式\_Duration-6Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=17 "17 17_列表组样式_Duration-6Min")
+
+    *   [ ] [18 18\_列表组颜色及自定义内容\_Duration-9Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=18 "18 18_列表组颜色及自定义内容_Duration-9Min")
+
+    *   [ ] [19 19\_Bootstrap徽章\_Duration-7Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=19 "19 19_Bootstrap徽章_Duration-7Min")
+
+    *   [ ] [20 20\_Bootstrap5 基础表格样式及颜色\_Duration-9Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=20 "20 20_Bootstrap5 基础表格样式及颜色_Duration-9Min")
+
+    *   [ ] [21 21\_Bootstrap5 表格边框，响应式表格\_Duration-7Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=21 "21 21_Bootstrap5 表格边框，响应式表格_Duration-7Min")
+
+    *   [ ] [22 22\_Bootstrap5图像\_Duration-6Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=22 "22 22_Bootstrap5图像_Duration-6Min")
+
+    *   [ ] [23 23\_Bootstrap5按钮\_Duration-8Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=23 "23 23_Bootstrap5按钮_Duration-8Min")
+
+    *   [ ] [24 24\_按钮尺寸活动和禁用\_Duration-8Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=24 "24 24_按钮尺寸活动和禁用_Duration-8Min")
+
+    *   [ ] [25 25\_Bootstrap5列表组\_Duration-5Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=25 "25 25_Bootstrap5列表组_Duration-5Min")
+
+    *   [ ] [26 26\_Bootstrap5加载器\_Duration-6Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=26 "26 26_Bootstrap5加载器_Duration-6Min")
+
+    *   [ ] [27 27\_Bootstrap5进度条\_Duration-13Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=27 "27 27_Bootstrap5进度条_Duration-13Min")
+
+    *   [ ] [28 28\_Bootstrap5边框\_Duration-10Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=28 "28 28_Bootstrap5边框_Duration-10Min")
+
+    *   [ ] [29 29\_Bootstrap5浮动与清除浮动\_Duration-6Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=29 "29 29_Bootstrap5浮动与清除浮动_Duration-6Min")
+
+    *   [ ] [30 30\_Bootstrap5居中对齐\_Duration-5Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=30 "30 30_Bootstrap5居中对齐_Duration-5Min")
+
+    *   [ ] [31 31\_Bootstrap5宽度和高度\_Duration-9Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=31 "31 31_Bootstrap5宽度和高度_Duration-9Min")
+
+    *   [ ] [32 32\_Bootstrap5外边距和内边距\_Duration-12Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=32 "32 32_Bootstrap5外边距和内边距_Duration-12Min")
+
+    *   [ ] [33 33\_Bootstrap5阴影\_Duration-4Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=33 "33 33_Bootstrap5阴影_Duration-4Min")
+
+    *   [ ] [34 34\_Bootstrap5Flex\_Duration-5Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=34 "34 34_Bootstrap5Flex_Duration-5Min")
+
+    *   [ ] [35 35\_Bootstrap5Flex主轴方向\_Duration-6Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=35 "35 35_Bootstrap5Flex主轴方向_Duration-6Min")
+
+    *   [ ] [36 36\_Bootstrap5Flex换行\_Duration-4Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=36 "36 36_Bootstrap5Flex换行_Duration-4Min")
+
+    *   [ ] [37 37\_项目的对齐\_Duration-6Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=37 "37 37_项目的对齐_Duration-6Min")
+
+    *   [ ] [38 38\_项目的对齐-2\_Duration-6Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=38 "38 38_项目的对齐-2_Duration-6Min")
+
+    *   [ ] [39 39\_项目的对齐-3\_Duration-5Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=39 "39 39_项目的对齐-3_Duration-5Min")
+
+    *   [ ] [40 40\_Bootstrap5Flex顺序伸展\_Duration-8Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=40 "40 40_Bootstrap5Flex顺序伸展_Duration-8Min")
+
+    *   [ ] [41 41\_Bootstrap5Flex子元素对齐\_Duration-5Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=41 "41 41_Bootstrap5Flex子元素对齐_Duration-5Min")
+
+    *   [ ] [42 42\_Bootstrap5flex骰子布局1\_Duration-7Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=42 "42 42_Bootstrap5flex骰子布局1_Duration-7Min")
+
+    *   [ ] [43 43\_Bootstrap5flex骰子布局2\_Duration-5Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=43 "43 43_Bootstrap5flex骰子布局2_Duration-5Min")
+
+    *   [ ] [44 44\_Bootstrap5flex骰子布局3\_Duration-11Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=44 "44 44_Bootstrap5flex骰子布局3_Duration-11Min")
+
+    *   [ ] [45 01\_order属性\_Duration-7Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=45 "45 01_order属性_Duration-7Min")
+
+    *   [ ] [46 02\_flex-grow属性\_Duration-14Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=46 "46 02_flex-grow属性_Duration-14Min")
+
+    *   [ ] [47 03\_flex-shrink属性\_Duration-13Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=47 "47 03_flex-shrink属性_Duration-13Min")
+
+    *   [ ] [48 04\_flex-basis属性\_Duration-12Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=48 "48 04_flex-basis属性_Duration-12Min")
+
+    *   [ ] [49 05\_flex属性\_Duration-13Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=49 "49 05_flex属性_Duration-13Min")
+
+    *   [ ] [50 06\_align-self属性\_Duration-11Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=50 "50 06_align-self属性_Duration-11Min")
+
+    *   [ ] [51 07\_Flex网格布局\_Duration-12Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=51 "51 07_Flex网格布局_Duration-12Min")
+
+    *   [ ] [52 08\_Flex百分比布局\_Duration-16Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=52 "52 08_Flex百分比布局_Duration-16Min")
+
+    *   [ ] [53 09\_flex圣杯布局\_Duration-10Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=53 "53 09_flex圣杯布局_Duration-10Min")
+
+    *   [ ] [54 10\_flex流式布局\_Duration-9Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=54 "54 10_flex流式布局_Duration-9Min")
+
+    *   [ ] [55 11css3+响应式布局页面结构分析\_Duration-6Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=55 "55 11css3+响应式布局页面结构分析_Duration-6Min")
+
+    *   [ ] [56 12css3+响应式布局：搭建结构\_Duration-11Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=56 "56 12css3+响应式布局：搭建结构_Duration-11Min")
+
+    *   [ ] [57 13css3+响应式布局：左侧导航栏结构\_Duration-6Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=57 "57 13css3+响应式布局：左侧导航栏结构_Duration-6Min")
+
+    *   [ ] [58 14css3+响应式布局：右侧内容展示头部\_Duration-6Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=58 "58 14css3+响应式布局：右侧内容展示头部_Duration-6Min")
+
+    *   [ ] [59 15css3+响应式布局：左侧导航栏样式\_Duration-8Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=59 "59 15css3+响应式布局：左侧导航栏样式_Duration-8Min")
+
+    *   [ ] [60 16css3+响应式布局：右侧内容结构\_Duration-5Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=60 "60 16css3+响应式布局：右侧内容结构_Duration-5Min")
+
+    *   [ ] [61 17css3+响应式布局：右侧内容样式\_Duration-13Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=61 "61 17css3+响应式布局：右侧内容样式_Duration-13Min")
+
+    *   [ ] [62 18css3+响应式布局：移到图片的动画效果\_Duration-12Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=62 "62 18css3+响应式布局：移到图片的动画效果_Duration-12Min")
+
+    *   [ ] [63 19css3+响应式布局：媒体查询一\_Duration-12Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=63 "63 19css3+响应式布局：媒体查询一_Duration-12Min")
+
+    *   [ ] [64 20css3+响应式布局：媒体查询二\_Duration-16Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=64 "64 20css3+响应式布局：媒体查询二_Duration-16Min")
+
+    *   [ ] [65 01vue权限管理项目前端需要做哪些处理（一）\_Duration-33Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=65 "65 01vue权限管理项目前端需要做哪些处理（一）_Duration-33Min")
+
+    *   [ ] [66 02vue权限管理项目前端需要做哪些处理（二）\_Duration-21Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=66 "66 02vue权限管理项目前端需要做哪些处理（二）_Duration-21Min")
+
+    *   [ ] [67 03vue权限管理项目前端需要做哪些处理（三）\_Duration-18Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=67 "67 03vue权限管理项目前端需要做哪些处理（三）_Duration-18Min")
+
+    *   [ ] [68 04vue权限管理项目前端需要做哪些处理（四）\_Duration-32Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=68 "68 04vue权限管理项目前端需要做哪些处理（四）_Duration-32Min")
+
+    *   [ ] [69 05vue+elementui实战一：项目搭建及配置\_Duration-44Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=69 "69 05vue+elementui实战一：项目搭建及配置_Duration-44Min")
+
+    *   [ ] [70 06vue+elementui实战二：ui引入+结构定义\_Duration-28Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=70 "70 06vue+elementui实战二：ui引入+结构定义_Duration-28Min")
+
+    *   [ ] [71 07vue+elementui实战三：登录页+多级路由定义\_Duration-37Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=71 "71 07vue+elementui实战三：登录页+多级路由定义_Duration-37Min")
+
+    *   [ ] [72 08vue+elementui实战四：首页走马灯+card卡片\_Duration-35Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=72 "72 08vue+elementui实战四：首页走马灯+card卡片_Duration-35Min")
+
+    *   [ ] [73 09vue+elementui实战五：table组件数据交互+数据筛选\_Duration-36Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=73 "73 09vue+elementui实战五：table组件数据交互+数据筛选_Duration-36Min")
+
+    *   [ ] [74 10vue+elementui实战六：折叠面板+会话框组件\_Duration-32Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=74 "74 10vue+elementui实战六：折叠面板+会话框组件_Duration-32Min")
+
+    *   [ ] [75 11vue3.2+Echart5实战一：图表引入\_Duration-28Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=75 "75 11vue3.2+Echart5实战一：图表引入_Duration-28Min")
+
+    *   [ ] [76 12vue3.2+Echart5实战二：图表复用\_Duration-12Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=76 "76 12vue3.2+Echart5实战二：图表复用_Duration-12Min")
+
+    *   [ ] [77 14vue3.2+Echart5实战四：图表数据交互\_Duration-42Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=77 "77 14vue3.2+Echart5实战四：图表数据交互_Duration-42Min")
+
+    *   [ ] [78 15-60分钟快速上手TS：（一）\_Duration-24Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=78 "78 15-60分钟快速上手TS：（一）_Duration-24Min")
+
+    *   [ ] [79 16-60分钟快速上手TS：（二）.\_Duration-21Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=79 "79 16-60分钟快速上手TS：（二）._Duration-21Min")
+
+    *   [ ] [80 17-60分钟快速上手TS：（三）.\_Duration-11Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=80 "80 17-60分钟快速上手TS：（三）._Duration-11Min")
+
+    *   [ ] [81 18-60分钟快速上手TS：（四）.\_Duration-28Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=81 "81 18-60分钟快速上手TS：（四）._Duration-28Min")
+
+    *   [ ] [82 19-4天上手VUE3.2实战：提升ES6能力\_Duration-38Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=82 "82 19-4天上手VUE3.2实战：提升ES6能力_Duration-38Min")
+
+    *   [ ] [83 20-4天上手VUE3.2实战：提升ES6能力\_Duration-11Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=83 "83 20-4天上手VUE3.2实战：提升ES6能力_Duration-11Min")
+
+    *   [ ] [84 21-4天上手VUE3.2实战：提升ES6能力\_Duration-20Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=84 "84 21-4天上手VUE3.2实战：提升ES6能力_Duration-20Min")
+
+    *   [ ] [85 22-4天上手VUE3.2实战：提升ES6能力\_Duration-39Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=85 "85 22-4天上手VUE3.2实战：提升ES6能力_Duration-39Min")
+
+    *   [ ] [86 23-4天上手VUE3.2实战：提升ES6能力\_Duration-24Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=86 "86 23-4天上手VUE3.2实战：提升ES6能力_Duration-24Min")
+
+    *   [ ] [87 24-4天上手VUE3.2实战：提升ES6能力\_Duration-24Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=87 "87 24-4天上手VUE3.2实战：提升ES6能力_Duration-24Min")
+
+    *   [ ] [88 25-4天上手VUE3.2实战：提升ES6能力\_Duration-24Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=88 "88 25-4天上手VUE3.2实战：提升ES6能力_Duration-24Min")
+
+    *   [ ] [89 26-4天上手VUE3.2实战：提升ES6能力\_Duration-35Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=89 "89 26-4天上手VUE3.2实战：提升ES6能力_Duration-35Min")
+
+    *   [ ] [90 27-前端跨域多种处理方式\_Duration-17Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=90 "90 27-前端跨域多种处理方式_Duration-17Min")
+
+    *   [ ] [91 28-前端跨域多种处理方式\_Duration-19Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=91 "91 28-前端跨域多种处理方式_Duration-19Min")
+
+    *   [ ] [92 29-前端跨域多种处理方式\_Duration-19Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=92 "92 29-前端跨域多种处理方式_Duration-19Min")
+
+    *   [ ] [93 30-前端跨域多种处理方式\_Duration-13Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=93 "93 30-前端跨域多种处理方式_Duration-13Min")
+
+    *   [ ] [94 31-前端原理及手写：什么是路由1\_Duration-12Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=94 "94 31-前端原理及手写：什么是路由1_Duration-12Min")
+
+    *   [ ] [95 32-前端原理及手写：路由组件混入2\_Duration-20Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=95 "95 32-前端原理及手写：路由组件混入2_Duration-20Min")
+
+    *   [ ] [96 33-前端原理及手写：路由实现3\_Duration-37Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=96 "96 33-前端原理及手写：路由实现3_Duration-37Min")
+
+    *   [ ] [97 34-前端原理及手写：vue-router应用到原理4\_Duration-76Min](https://www.bilibili.com/video/BV1Ng411W75X/?p=97 "97 34-前端原理及手写：vue-router应用到原理4_Duration-76Min")

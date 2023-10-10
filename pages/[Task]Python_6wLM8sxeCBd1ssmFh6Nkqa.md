@@ -1,0 +1,484 @@
+# \[Task]Python
+
+| 标签   |            |
+| ---- | ---------- |
+| Date | 2020/10/06 |
+| 类型   |            |
+
+<https://www.runoob.com/python3/python3-errors-execptions.html>
+
+<https://www.runoob.com/python3/python3-assert.html>
+
+-   [Python](Python_ifd8apTqYkKuJg39xs7qN8.md "Python") Task
+    -   2020Python入门基础版
+        -   [ ] [1 0.前言相关介绍\_Duration-4Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=1 "1 0.前言相关介绍_Duration-4Min")
+        -   [ ] [2 1.Python的自述\_Duration-11Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=2 "2 1.Python的自述_Duration-11Min")
+        -   [ ] [3 2.Python简介\_Duration-4Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=3 "3 2.Python简介_Duration-4Min")
+        -   [ ] [4 3.Python开发环境的安装\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=4 "4 3.Python开发环境的安装_Duration-6Min")
+        -   [ ] [5 4.集成开发环境Pycharm的安装及设置模板\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=5 "5 4.集成开发环境Pycharm的安装及设置模板_Duration-6Min")
+        -   [ ] [6 5.输出函数print\_Duration-12Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=6 "6 5.输出函数print_Duration-12Min")
+        -   [ ] [7 6.转义字符与原字符\_Duration-12Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=7 "7 6.转义字符与原字符_Duration-12Min")
+        -   [ ] [8 7.二进制与字符编码\_Duration-13Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=8 "8 7.二进制与字符编码_Duration-13Min")
+        -   [ ] [9 8.Python中的标识符和保留字\_Duration-3Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=9 "9 8.Python中的标识符和保留字_Duration-3Min")
+        -   [ ] [10 9.变量的定义和使用\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=10 "10 9.变量的定义和使用_Duration-6Min")
+        -   [ ] [11 10.变量的多次赋值\_Duration-3Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=11 "11 10.变量的多次赋值_Duration-3Min")
+        -   [ ] [12 11.Python中常见的数据类型\_Duration-2Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=12 "12 11.Python中常见的数据类型_Duration-2Min")
+        -   [ ] [13 12.数据类型-整数类型\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=13 "13 12.数据类型-整数类型_Duration-6Min")
+        -   [ ] [14 13.数据类型\_浮点类型\_Duration-3Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=14 "14 13.数据类型_浮点类型_Duration-3Min")
+        -   [ ] [15 14.数据类型\_布尔类型\_Duration-2Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=15 "15 14.数据类型_布尔类型_Duration-2Min")
+        -   [ ] [16 15.数据类型\_字符串类型\_Duration-3Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=16 "16 15.数据类型_字符串类型_Duration-3Min")
+        -   [ ] [17 16.类型转换\_str()函数与int()函数\_Duration-11Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=17 "17 16.类型转换_str()函数与int()函数_Duration-11Min")
+        -   [ ] [18 17.类型转换\_float()函数\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=18 "18 17.类型转换_float()函数_Duration-5Min")
+        -   [ ] [19 18.Python中的注释\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=19 "19 18.Python中的注释_Duration-6Min")
+        -   [ ] [20 19.input函数的使用\_Duration-3Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=20 "20 19.input函数的使用_Duration-3Min")
+        -   [ ] [21 20.input函数的高级使用\_Duration-4Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=21 "21 20.input函数的高级使用_Duration-4Min")
+        -   [ ] [22 21.运算符\_算术运算符\_Duration-10Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=22 "22 21.运算符_算术运算符_Duration-10Min")
+        -   [ ] [23 22.运算符\_赋值运算符\_Duration-13Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=23 "23 22.运算符_赋值运算符_Duration-13Min")
+        -   [ ] [24 23.运算符\_比较运算符\_Duration-10Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=24 "24 23.运算符_比较运算符_Duration-10Min")
+        -   [ ] [25 24.运算符\_布尔运算符\_Duration-8Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=25 "25 24.运算符_布尔运算符_Duration-8Min")
+        -   [ ] [26 25.运算符\_位运算\_Duration-12Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=26 "26 25.运算符_位运算_Duration-12Min")
+        -   [ ] [27 26.运算符的优先级\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=27 "27 26.运算符的优先级_Duration-5Min")
+        -   [ ] [28 27.程序的组织结构\_顺序结构\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=28 "28 27.程序的组织结构_顺序结构_Duration-5Min")
+        -   [ ] [29 28.对象的布尔值\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=29 "29 28.对象的布尔值_Duration-6Min")
+        -   [ ] [30 29.分支结构\_单分支结构\_Duration-7Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=30 "30 29.分支结构_单分支结构_Duration-7Min")
+        -   [ ] [31 30.分支结构\_双分支结构\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=31 "31 30.分支结构_双分支结构_Duration-5Min")
+        -   [ ] [32 31.分支结构\_多分支结构\_Duration-10Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=32 "32 31.分支结构_多分支结构_Duration-10Min")
+        -   [ ] [33 32.分支结构\_嵌套if的使用\_Duration-9Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=33 "33 32.分支结构_嵌套if的使用_Duration-9Min")
+        -   [ ] [34 33.条件表达式\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=34 "34 33.条件表达式_Duration-6Min")
+        -   [ ] [35 34.pass语句\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=35 "35 34.pass语句_Duration-6Min")
+        -   [ ] [36 35.range函数的使用\_Duration-11Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=36 "36 35.range函数的使用_Duration-11Min")
+        -   [ ] [37 36.while循环\_Duration-14Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=37 "37 36.while循环_Duration-14Min")
+        -   [ ] [38 37.whil练习题\_1到100之间的偶数和\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=38 "38 37.whil练习题_1到100之间的偶数和_Duration-5Min")
+        -   [ ] [39 38.for\_in循环\_Duration-7Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=39 "39 38.for_in循环_Duration-7Min")
+        -   [ ] [40 39.for\_in练习题\_100到999之间的水仙花数\_Duration-4Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=40 "40 39.for_in练习题_100到999之间的水仙花数_Duration-4Min")
+        -   [ ] [41 40.流程控制语句break\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=41 "41 40.流程控制语句break_Duration-6Min")
+        -   [ ] [42 41.流程控制语句continue\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=42 "42 41.流程控制语句continue_Duration-5Min")
+        -   [ ] [43 42.8else语句\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=43 "43 42.8else语句_Duration-5Min")
+        -   [ ] [44 43.嵌套循环\_Duration-9Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=44 "44 43.嵌套循环_Duration-9Min")
+        -   [ ] [45 44.二重循环中的break与continue\_Duration-8Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=45 "45 44.二重循环中的break与continue_Duration-8Min")
+        -   [ ] [46 45.为什么需要列表\_Duration-8Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=46 "46 45.为什么需要列表_Duration-8Min")
+        -   [ ] [47 46.列表对象的创建\_Duration-4Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=47 "47 46.列表对象的创建_Duration-4Min")
+        -   [ ] [48 47.列表的特点\_Duration-3Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=48 "48 47.列表的特点_Duration-3Min")
+        -   [ ] [49 48.获取指定元素的索引\_Duration-4Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=49 "49 48.获取指定元素的索引_Duration-4Min")
+        -   [ ] [50 49.获取列表中指定的元素\_Duration-3Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=50 "50 49.获取列表中指定的元素_Duration-3Min")
+        -   [ ] [51 50.获取列表中的多个元素\_切片操作\_Duration-11Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=51 "51 50.获取列表中的多个元素_切片操作_Duration-11Min")
+        -   [ ] [52 51.列表元素的判断及遍历\_Duration-3Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=52 "52 51.列表元素的判断及遍历_Duration-3Min")
+        -   [ ] [53 52.列表元素的添加操作\_Duration-9Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=53 "53 52.列表元素的添加操作_Duration-9Min")
+        -   [ ] [54 53.列表元素的删除操作\_Duration-9Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=54 "54 53.列表元素的删除操作_Duration-9Min")
+        -   [ ] [55 54.列表元素的修改操作\_Duration-4Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=55 "55 54.列表元素的修改操作_Duration-4Min")
+        -   [ ] [56 55.列表元素的排序操作\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=56 "56 55.列表元素的排序操作_Duration-6Min")
+        -   [ ] [57 56.列表生成式\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=57 "57 56.列表生成式_Duration-6Min")
+        -   [ ] [58 57.什么是字典\_Duration-8Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=58 "58 57.什么是字典_Duration-8Min")
+        -   [ ] [59 58.字典的实现原理\_Duration-3Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=59 "59 58.字典的实现原理_Duration-3Min")
+        -   [ ] [60 59.字典的创建\_Duration-3Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=60 "60 59.字典的创建_Duration-3Min")
+        -   [ ] [61 60.字典元素的获取\_Duration-4Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=61 "61 60.字典元素的获取_Duration-4Min")
+        -   [ ] [62 61.字典元素的增\_删\_改操作\_Duration-3Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=62 "62 61.字典元素的增_删_改操作_Duration-3Min")
+        -   [ ] [63 62.获取字典视图\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=63 "63 62.获取字典视图_Duration-5Min")
+        -   [ ] [64 63.字典元素的遍历\_Duration-2Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=64 "64 63.字典元素的遍历_Duration-2Min")
+        -   [ ] [65 64.字典的特点\_Duration-4Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=65 "65 64.字典的特点_Duration-4Min")
+        -   [ ] [66 65.字典生成式\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=66 "66 65.字典生成式_Duration-5Min")
+        -   [ ] [67 66.什么是元组\_Duration-4Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=67 "67 66.什么是元组_Duration-4Min")
+        -   [ ] [68 67.元组的创建方式\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=68 "68 67.元组的创建方式_Duration-6Min")
+        -   [ ] [69 68.为什么要将元组设计成不可变序列\_Duration-9Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=69 "69 68.为什么要将元组设计成不可变序列_Duration-9Min")
+        -   [ ] [70 69.元组的遍历\_Duration-2Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=70 "70 69.元组的遍历_Duration-2Min")
+        -   [ ] [71 70.集合的概述与创建\_Duration-9Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=71 "71 70.集合的概述与创建_Duration-9Min")
+        -   [ ] [72 71.集合的相关操作\_Duration-9Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=72 "72 71.集合的相关操作_Duration-9Min")
+        -   [ ] [73 72.集合间的关系\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=73 "73 72.集合间的关系_Duration-6Min")
+        -   [ ] [74 73.集合的数据操作\_Duration-8Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=74 "74 73.集合的数据操作_Duration-8Min")
+        -   [ ] [75 74.集合生成式\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=75 "75 74.集合生成式_Duration-6Min")
+        -   [ ] [76 75.字符串的创建与驻留机制\_Duration-15Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=76 "76 75.字符串的创建与驻留机制_Duration-15Min")
+        -   [ ] [77 76.字符串的常用操作\_字符串的查询操作\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=77 "77 76.字符串的常用操作_字符串的查询操作_Duration-6Min")
+        -   [ ] [78 77.字符串的常用操作\_字符串的大小写转换操作方法\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=78 "78 77.字符串的常用操作_字符串的大小写转换操作方法_Duration-6Min")
+        -   [ ] [79 78.字符串的常用操作\_字符串内容对齐操作的方法\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=79 "79 78.字符串的常用操作_字符串内容对齐操作的方法_Duration-6Min")
+        -   [ ] [80 79.字符串的常用操作\_字符串的劈分\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=80 "80 79.字符串的常用操作_字符串的劈分_Duration-5Min")
+        -   [ ] [81 80.字符串的常用操作\_字符串判断的相关方法\_Duration-7Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=81 "81 80.字符串的常用操作_字符串判断的相关方法_Duration-7Min")
+        -   [ ] [82 81.字符串的常用操作\_替换与合并\_Duration-7Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=82 "82 81.字符串的常用操作_替换与合并_Duration-7Min")
+        -   [ ] [83 82.字符串的比较操作\_Duration-7Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=83 "83 82.字符串的比较操作_Duration-7Min")
+        -   [ ] [84 83.字符串的切片操作\_Duration-10Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=84 "84 83.字符串的切片操作_Duration-10Min")
+        -   [ ] [85 84.格式化字符串\_Duration-13Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=85 "85 84.格式化字符串_Duration-13Min")
+        -   [ ] [86 85.字符串的编码与解码\_Duration-7Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=86 "86 85.字符串的编码与解码_Duration-7Min")
+        -   [ ] [87 86.函数的定义与调用\_Duration-8Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=87 "87 86.函数的定义与调用_Duration-8Min")
+        -   [ ] [88 87.函数调用的参数传递\_位置实参\_关键字实参\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=88 "88 87.函数调用的参数传递_位置实参_关键字实参_Duration-6Min")
+        -   [ ] [89 88.函数参数传递的内存分析\_Duration-11Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=89 "89 88.函数参数传递的内存分析_Duration-11Min")
+        -   [ ] [90 89.函数的返回值\_Duration-10Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=90 "90 89.函数的返回值_Duration-10Min")
+        -   [ ] [91 90.函数参数定义\_默认值参数\_Duration-4Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=91 "91 90.函数参数定义_默认值参数_Duration-4Min")
+        -   [ ] [92 91.函数参数定义\_个数可变的位置形参\_个数可变的关键字形参\_Duration-9Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=92 "92 91.函数参数定义_个数可变的位置形参_个数可变的关键字形参_Duration-9Min") 函数的参数定义
+        -   [ ] [93 92.函数的参数总结\_Duration-12Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=93 "93 92.函数的参数总结_Duration-12Min")
+        -   [ ] [94 93.变量的作用域\_Duration-4Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=94 "94 93.变量的作用域_Duration-4Min")
+        -   [ ] [95 94.递归函数\_Duration-10Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=95 "95 94.递归函数_Duration-10Min")
+        -   [ ] [96 95.斐波那契数列\_本章总结\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=96 "96 95.斐波那契数列_本章总结_Duration-6Min")
+        -   [ ] [97 96.Bug的由来\_Duration-2Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=97 "97 96.Bug的由来_Duration-2Min")
+        -   [ ] [98 97.Bug的常见类型\_粗心导致的错误\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=98 "98 97.Bug的常见类型_粗心导致的错误_Duration-5Min")
+        -   [ ] [99 98.Bug的常见类型\_错误点不熟悉导致错误\_Duration-2Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=99 "99 98.Bug的常见类型_错误点不熟悉导致错误_Duration-2Min")
+        -   [ ] [100 99.Bug的常见类型-思路不清导致的部题\_Duration-9Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=100 "100 99.Bug的常见类型-思路不清导致的部题_Duration-9Min")
+        -   [ ] [101 100.Bug的常见类型-被动掉坑-try-except\_Duration-9Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=101 "101 100.Bug的常见类型-被动掉坑-try-except_Duration-9Min")
+        -   [ ] [102 101.try-except-else结构与try-except-else-finally结构\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=102 "102 101.try-except-else结构与try-except-else-finally结构_Duration-5Min")
+        -   [ ] [103 102.Python中常见的异常类型\_Duration-4Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=103 "103 102.Python中常见的异常类型_Duration-4Min")
+        -   [ ] [104 103.8traceback模块的使用\_Duration-3Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=104 "104 103.8traceback模块的使用_Duration-3Min")
+        -   [ ] [105 104.Pycharm的程序调试\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=105 "105 104.Pycharm的程序调试_Duration-6Min")
+        -   [ ] [106 105.编程的两大思想\_面向过程\_面向对象\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=106 "106 105.编程的两大思想_面向过程_面向对象_Duration-5Min")
+        -   [x] [107 106.类与对象\_Duration-4Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=107 "107 106.类与对象_Duration-4Min") [\[Py\]class](\[Py]class_sbK2rUC2Ngef5TPcjDPjmr.md "\[Py]class")
+        -   [x] [108 107.定义Python中的类\_Duration-11Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=108 "108 107.定义Python中的类_Duration-11Min") [\[Py\]class](\[Py]class_sbK2rUC2Ngef5TPcjDPjmr.md "\[Py]class") |<空降>静态方法
+        -   [x] [109 108.对象的创建\_Duration-8Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=109 "109 108.对象的创建_Duration-8Min") [\[Py\]class](\[Py]class_sbK2rUC2Ngef5TPcjDPjmr.md "\[Py]class")
+        -   [x] [110 109.类属性\_类方法\_静态方法的使用方式\_Duration-8Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=110 "110 109.类属性_类方法_静态方法的使用方式_Duration-8Min") [\[Py\]class](\[Py]class_sbK2rUC2Ngef5TPcjDPjmr.md "\[Py]class")|动态绑定属性和方法
+        -   [x] [111 110.动态绑定属性和方法\_Duration-15Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=111 "111 110.动态绑定属性和方法_Duration-15Min") [\[Py\]class](\[Py]class_sbK2rUC2Ngef5TPcjDPjmr.md "\[Py]class")
+        -   [x] [112 110.面向对象的三大特征\_封装的实现方式\_Duration-11Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=112 "112 110.面向对象的三大特征_封装的实现方式_Duration-11Min") [\[Py\]class](\[Py]class_sbK2rUC2Ngef5TPcjDPjmr.md "\[Py]class")|<[空降](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=112\&spm_id_from=pageDriver\&vd_source=d87be07aa170c6f76058fa2663ca0da0\&t=593.6 "空降")> 私有类属性
+        -   [x] [113 111.继承及其实现方式\_Duration-10Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=113 "113 111.继承及其实现方式_Duration-10Min") [\[Py\]class](\[Py]class_sbK2rUC2Ngef5TPcjDPjmr.md "\[Py]class") | <[空降](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=113\&spm_id_from=pageDriver\&vd_source=d87be07aa170c6f76058fa2663ca0da0\&t=123.8 "空降")>继承;[示例](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=113\&spm_id_from=pageDriver\&vd_source=d87be07aa170c6f76058fa2663ca0da0\&t=264.9 "示例")| <[空降](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=113\&spm_id_from=pageDriver\&vd_source=d87be07aa170c6f76058fa2663ca0da0\&t=624.6 "空降")>Python支持多继承
+        -   [x] [114 112.方法重写\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=114 "114 112.方法重写_Duration-5Min") [\[Py\]class](\[Py]class_sbK2rUC2Ngef5TPcjDPjmr.md "\[Py]class")|方法重写
+        -   [x] [115 113.object类\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=115 "115 113.object类_Duration-5Min") [\[Py\]class](\[Py]class_sbK2rUC2Ngef5TPcjDPjmr.md "\[Py]class")|`object类`[demo](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=115\&spm_id_from=pageDriver\&vd_source=d87be07aa170c6f76058fa2663ca0da0\&t=41.7 "demo")
+        -   [x] [116 114.多态的实现\_Duration-7Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=116 "116 114.多态的实现_Duration-7Min") [\[Py\]class](\[Py]class_sbK2rUC2Ngef5TPcjDPjmr.md "\[Py]class")|多态
+        -   [x] [117 115.特殊属性\_Duration-8Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=117 "117 115.特殊属性_Duration-8Min") [\[Py\]class](\[Py]class_sbK2rUC2Ngef5TPcjDPjmr.md "\[Py]class")|<[空降](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=117\&spm_id_from=pageDriver\&vd_source=d87be07aa170c6f76058fa2663ca0da0\&t=184.6 "空降")>`__dict__`
+        -   [x] [118 116.特殊方法\_Duration-8Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=118 "118 116.特殊方法_Duration-8Min") [\[Py\]class](\[Py]class_sbK2rUC2Ngef5TPcjDPjmr.md "\[Py]class")| `__add__()`|<[空降](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=118\&spm_id_from=pageDriver\&vd_source=d87be07aa170c6f76058fa2663ca0da0\&t=394.0 "空降")>`__len__()`
+        -   [ ] [119 117.\_\_new\_\_与\_\_init\_\_演示创建对象的过程\_Duration-14Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=119 "119 117.__new__与__init__演示创建对象的过程_Duration-14Min") [\[Py\]class](\[Py]class_sbK2rUC2Ngef5TPcjDPjmr.md "\[Py]class") |`__new__()``__init__()`
+        -   [x] [120 118.类的赋值与浅拷贝\_Duration-17Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=120 "120 118.类的赋值与浅拷贝_Duration-17Min") |类的复制与\[Py]浅拷贝,\[Py]深拷贝
+        -   [x] [121 119.深拷贝\_uration-11Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=121 "121 119.深拷贝_uration-11Min") | 类的复制与\[Py]浅拷贝,\[Py]深拷贝
+        -   [ ] [122 120.什么叫模块\_模块化编程的好处\_Duration-7Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=122 "122 120.什么叫模块_模块化编程的好处_Duration-7Min")
+        -   [ ] [123 121.模块的导入\_Duration-11Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=123 "123 121.模块的导入_Duration-11Min")
+        -   [ ] [124 122.以主程序方式运行\_Duration-4Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=124 "124 122.以主程序方式运行_Duration-4Min")
+        -   [ ] [125 123.Python中的包\_Duration-9Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=125 "125 123.Python中的包_Duration-9Min")
+        -   [ ] [126 124.Python中常用的内容模块\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=126 "126 124.Python中常用的内容模块_Duration-6Min")
+        -   [ ] [127 125.第三方模块的安装与使用\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=127 "127 125.第三方模块的安装与使用_Duration-6Min")
+        -   [ ] [128 126.编码格式的介绍\_Duration-8Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=128 "128 126.编码格式的介绍_Duration-8Min")
+        -   [ ] [129 127.文件读写的原理\_读取磁盘文件中的内容\_Duration-8Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=129 "129 127.文件读写的原理_读取磁盘文件中的内容_Duration-8Min")
+        -   [ ] [130 128.常用的文件打开模式\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=130 "130 128.常用的文件打开模式_Duration-5Min")
+        -   [ ] [131 129.文件对象的常用方法\_Duration-9Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=131 "131 129.文件对象的常用方法_Duration-9Min")
+        -   [ ] [132 130.with语句\_Duration-9Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=132 "132 130.with语句_Duration-9Min") [\[Py\]with](\[Py]with_mRCptztLCNdeHM1z8FMay2.md "\[Py]with")
+        -   [ ] [133 131.os模块的常用函数\_Duration-10Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=133 "133 131.os模块的常用函数_Duration-10Min")
+        -   [ ] [134 132.os.path模块的常用方法\_课堂案例\_Duration-16Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=134 "134 132.os.path模块的常用方法_课堂案例_Duration-16Min")
+        -   [ ] [135 133.学生信息管理系统-需求分析\_Duration-4Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=135 "135 133.学生信息管理系统-需求分析_Duration-4Min")
+        -   [ ] [136 134.学生信息管理系统-系统设计\_Duration-4Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=136 "136 134.学生信息管理系统-系统设计_Duration-4Min")
+        -   [ ] [137 135.学生信息管理系统-主函数设计\_Duration-11Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=137 "137 135.学生信息管理系统-主函数设计_Duration-11Min")
+        -   [ ] [138 136.学生信息管理系统-录入学生信息功能\_Duration-12Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=138 "138 136.学生信息管理系统-录入学生信息功能_Duration-12Min")
+        -   [ ] [139 137.学生信息管理系统-删除学生信息功能\_Duration-11Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=139 "139 137.学生信息管理系统-删除学生信息功能_Duration-11Min")
+        -   [ ] [140 138.学生信息管理系统-修改学生信息功能\_Duration-12Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=140 "140 138.学生信息管理系统-修改学生信息功能_Duration-12Min")
+        -   [ ] [141 139.学生信息管理系统-查找学生信息功能\_Duration-16Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=141 "141 139.学生信息管理系统-查找学生信息功能_Duration-16Min")
+        -   [ ] [142 140.学生信息管理系统-统计学生总人数\_Duration-3Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=142 "142 140.学生信息管理系统-统计学生总人数_Duration-3Min")
+        -   [ ] [143 141.学生信息管理系统-显示所有学生信息功能\_Duration-4Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=143 "143 141.学生信息管理系统-显示所有学生信息功能_Duration-4Min")
+        -   [ ] [144 142.学生信息管理系统-排序模块设计\_Duration-12Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=144 "144 142.学生信息管理系统-排序模块设计_Duration-12Min")
+        -   [ ] [145 143.学生信息管理系统-项目打包生成exe可执行文件\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=145 "145 143.学生信息管理系统-项目打包生成exe可执行文件_Duration-5Min")
+        -   [ ] [146 144.实操案例一\_Duration-11Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=146 "146 144.实操案例一_Duration-11Min")
+        -   [ ] [147 145.实操案例一\_Duration-18Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=147 "147 145.实操案例一_Duration-18Min")
+        -   [ ] [148 146.实操案例二\_Duration-15Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=148 "148 146.实操案例二_Duration-15Min")
+        -   [ ] [149 147.实操案例二\_Duration-10Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=149 "149 147.实操案例二_Duration-10Min")
+        -   [ ] [150 148.实操案例三\_Duration-12Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=150 "150 148.实操案例三_Duration-12Min")
+        -   [ ] [151 149.实操案例三\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=151 "151 149.实操案例三_Duration-5Min")
+        -   [ ] [152 150.实操案例四\_Duration-15Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=152 "152 150.实操案例四_Duration-15Min")
+        -   [ ] [153 151.实操案例五\_Duration-7Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=153 "153 151.实操案例五_Duration-7Min")
+        -   [ ] [154 152.实操案例五\_Duration-13Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=154 "154 152.实操案例五_Duration-13Min")
+        -   [ ] [155 153.实操案例六\_Duration-5Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=155 "155 153.实操案例六_Duration-5Min")
+        -   [ ] [156 154.实操案例六\_Duration-10Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=156 "156 154.实操案例六_Duration-10Min")
+        -   [ ] [157 155.实操案例七\_Duration-8Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=157 "157 155.实操案例七_Duration-8Min")
+        -   [ ] [158 156.实操案例七\_Duration-10Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=158 "158 156.实操案例七_Duration-10Min")
+        -   [ ] [159 157.实操案例八\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=159 "159 157.实操案例八_Duration-6Min")
+        -   [ ] [160 158.实操案例八\_Duration-6Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=160 "160 158.实操案例八_Duration-6Min")
+        -   [ ] [161 159.实操案例九\_Duration-10Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=161 "161 159.实操案例九_Duration-10Min")
+        -   [ ] [162 160.实操案例十\_Duration-9Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=162 "162 160.实操案例十_Duration-9Min")
+        -   [ ] [163 161.实操案例十一\_Duration-10Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=163 "163 161.实操案例十一_Duration-10Min")
+        -   [ ] [164 162.实操案例十二\_Duration-12Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=164 "164 162.实操案例十二_Duration-12Min")
+        -   [ ] [165 163.实操案例十三\_Duration-13Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=165 "165 163.实操案例十三_Duration-13Min")
+        -   [ ] [166 164.实操案例十四\_Duration-12Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=166 "166 164.实操案例十四_Duration-12Min")
+        -   [ ] [167 165.实操案例十四\_Duration-7Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=167 "167 165.实操案例十四_Duration-7Min")
+        -   [ ] [168 166.实操案例十五\_Duration-15Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=168 "168 166.实操案例十五_Duration-15Min")
+        -   [ ] [169 167.实操案例十五\_Duration-11Min](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=169 "169 167.实操案例十五_Duration-11Min")
+
+
+
+[Python爬虫](Python爬虫_foXM12Ua95Tj6yjzS72ecf.md "Python爬虫")Task 40%
+
+-   [x] [\[Py\]selenium](\[Py]selenium_i7kh9s8KA1REe9CYCaezQX.md "\[Py]selenium")的基础使用
+-   爬虫课程：尚硅谷Python爬虫教程小白零基础速通（含python基础+爬虫案例）
+    ```ybsz
+
+    title 爬虫课程 per block:uXnknAeKepi6pJzCv5rJxQ red
+
+    ```
+    <https://www.bilibili.com/video/BV1Db4y1m7Ho>
+
+    ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ 0%
+    -   基础跳过 42节
+        -   [ ] 001\_尚硅谷\_爬虫\_课程简介
+        -   [ ] 002\_尚硅谷\_爬虫\_python环境的安装
+        -   [ ] 003\_尚硅谷\_爬虫\_pip指令使用
+        -   [ ] 004\_尚硅谷\_爬虫\_终端和文件运行python代码
+        -   [ ] 005\_尚硅谷\_爬虫\_pycharm的安装以及基本使用
+        -   [ ] 006\_尚硅谷\_爬虫\_pycharm结构介绍以及基本配置
+        -   [ ] 007\_尚硅谷\_爬虫\_注释
+        -   [ ] 008\_尚硅谷\_爬虫\_变量的定义
+        -   [ ] 009\_尚硅谷\_爬虫\_变量类型\_number\_boolean\_string
+        -   [ ] 010\_尚硅谷\_爬虫\_变量类型\_列表\_元组\_字典
+        -   [ ] 011\_尚硅谷\_爬虫\_查看变量的数据类型
+        -   [ ] 012\_尚硅谷\_爬虫\_变量的命名规范
+        -   [ ] 013\_尚硅谷\_爬虫\_类型转换\_转换为整型
+        -   [ ] 014\_尚硅谷\_爬虫\_类型转换\_转换为浮点数
+        -   [ ] 015\_尚硅谷\_爬虫\_类型转换\_转换为字符串
+        -   [ ] 016\_尚硅谷\_爬虫\_类型转换\_转换为布尔类型
+        -   [ ] 017\_尚硅谷\_爬虫\_算数运算符
+        -   [ ] 018\_尚硅谷\_爬虫\_赋值运算符
+        -   [ ] 019\_尚硅谷\_爬虫\_复合赋值运算符
+        -   [ ] 020\_尚硅谷\_爬虫\_比较运算符
+        -   [ ] 021\_尚硅谷\_爬虫\_逻辑运算符
+        -   [ ] 022\_尚硅谷\_爬虫\_逻辑运算符性能提升
+        -   [ ] 023\_尚硅谷\_爬虫\_输出
+        -   [ ] 024\_尚硅谷\_爬虫\_输入
+        -   [ ] 025\_尚硅谷\_爬虫\_流程控制语句\_if关键字
+        -   [ ] 026\_尚硅谷\_爬虫\_流程控制语句\_if案例练习
+        -   [ ] 027\_尚硅谷\_爬虫\_流程控制语句\_ifelse关键字
+        -   [ ] 028\_尚硅谷\_爬虫\_流程控制语句\_ifelse案例练习
+        -   [ ] 029\_尚硅谷\_爬虫\_流程控制语句\_elif
+        -   [ ] 030\_尚硅谷\_爬虫\_流程控制语句\_for循环
+        -   [ ] 031\_尚硅谷\_爬虫\_字符串高级
+        -   [ ] 032\_尚硅谷\_爬虫\_列表高级\_添加
+        -   [ ] 033\_尚硅谷\_爬虫\_列表高级\_修改
+        -   [ ] 034\_尚硅谷\_爬虫\_列表高级\_查询
+        -   [ ] 035\_尚硅谷\_爬虫\_列表高级\_删除
+        -   [ ] 036\_尚硅谷\_爬虫\_元组高级
+        -   [ ] 037\_尚硅谷\_爬虫\_切片
+        -   [ ] 038\_尚硅谷\_爬虫\_字典的高级\_查询
+        -   [ ] 039\_尚硅谷\_爬虫\_字典的高级\_修改
+        -   [ ] 040\_尚硅谷\_爬虫\_字典的高级\_添加
+        -   [ ] 041\_尚硅谷\_爬虫\_字典的高级\_删除
+        -   [ ] 042\_尚硅谷\_爬虫\_字典的高级\_遍历
+    -   [ ] 043\_尚硅谷\_爬虫\_函数\_函数的定义和调用
+    -   [ ] 044\_尚硅谷\_爬虫\_函数\_函数的参数
+    -   [ ] 045\_尚硅谷\_爬虫\_函数\_函数的返回值
+    -   [ ] 046\_尚硅谷\_爬虫\_函数\_函数的局部变量和全局变量
+    -   [ ] 047\_尚硅谷\_爬虫\_文件\_文件的打开和关闭
+    -   [ ] 048\_尚硅谷\_爬虫\_文件\_文件的读写
+    -   [ ] 049\_尚硅谷\_爬虫\_文件\_文件的序列化和反序列化
+    -   [ ] 050\_尚硅谷\_爬虫\_异常
+    -   [ ] 051\_尚硅谷\_爬虫\_页面结构的介绍
+    -   [ ] 052\_尚硅谷\_爬虫\_爬虫相关概念介绍
+    -   [ ] 053\_尚硅谷\_爬虫\_urllib\_基本使用
+    -   [ ] 054\_尚硅谷\_爬虫\_urllib\_1个类型和6个方法
+    -   [ ] 055\_尚硅谷\_爬虫\_urllib\_下载
+    -   [ ] 056\_尚硅谷\_爬虫\_urllib\_请求对象的定制
+    -   [ ] 057\_尚硅谷\_爬虫\_urllib\_get请求的quote方法
+    -   [ ] 058\_尚硅谷\_爬虫\_urllib\_get请求的urlencode方法
+    -   [ ] 059\_尚硅谷\_爬虫\_urllib\_post请求百度翻译
+    -   [ ] 060\_尚硅谷\_爬虫\_urllib\_post请求百度翻译之详细翻译
+    -   [ ] 061\_尚硅谷\_爬虫\_urllib\_ajax的get请求豆瓣电影第一页
+    -   [ ] 062\_尚硅谷\_爬虫\_urllib\_ajax的get请求豆瓣电影前10页
+    -   [ ] 063\_尚硅谷\_爬虫\_urllib\_ajax的post请求肯德基官网
+    -   [ ] 064\_尚硅谷\_爬虫\_urllib\_异常
+    -   [ ] 065\_尚硅谷\_爬虫\_urllib\_微博的cookie登陆
+    -   [ ] 066\_尚硅谷\_爬虫\_urllib\_handler处理器的基本使用
+    -   [ ] 067\_尚硅谷\_爬虫\_urllib\_代理
+    -   [ ] 068\_尚硅谷\_爬虫\_urllib\_代理池
+    -   [ ] 069\_尚硅谷\_爬虫\_解析\_xpath插件的安装
+    -   [ ] 070\_尚硅谷\_爬虫\_解析\_xpath的基本使用
+    -   [ ] 071\_尚硅谷\_爬虫\_解析\_获取百度网站的百度一下
+    -   [ ] 072\_尚硅谷\_爬虫\_解析\_站长素材
+    -   [ ] 073\_尚硅谷\_爬虫\_解析\_jsonpath
+    -   [ ] 074\_尚硅谷\_爬虫\_解析\_jsonpath解析淘票票
+    -   [ ] 075\_尚硅谷\_爬虫\_解析\_bs4的基本使用
+    -   [ ] 076\_尚硅谷\_爬虫\_解析\_bs4爬取星巴克数据
+
+        示例：获取某个新闻网站中 国际新闻分类 中的 首页标题 \[[\[Py\]bs4](\[Py]bs4_tLCWMv4pj5rsDuzMk7N6i3.md "\[Py]bs4")`.BeautifulSoup``.select``.string``.get_text()`,[\[Py\]urllib](\[Py]urllib_7nZuR1Jv9Gk36cjTLAukZF.md "\[Py]urllib")] <26>
+    -   [ ] 不适用于新版本
+        -   [ ] [077\_](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=77\&spm_id_from=pageDriver\&vd_source=d87be07aa170c6f76058fa2663ca0da0 "077_")尚硅谷\_爬虫\_selenium\_为什么要学习selenium&#x20;
+        -   [ ] [078](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=78\&spm_id_from=pageDriver\&vd_source=d87be07aa170c6f76058fa2663ca0da0 "078")\_尚硅谷\_爬虫\_selenium\_基本使用
+    -   [ ] [P78 079\_尚硅谷\_爬虫\_selenium\_元素定位](https://www.bilibili.com/video/BV1Db4y1m7Ho?p=78 "P78 079_尚硅谷_爬虫_selenium_元素定位")
+    -   [ ] [P79 080\_尚硅谷\_爬虫\_selenium\_元素信息](https://www.bilibili.com/video/BV1Db4y1m7Ho?p=79 "P79 080_尚硅谷_爬虫_selenium_元素信息")
+    -   [ ] [P80 081\_尚硅谷\_爬虫\_selenium\_交互](https://www.bilibili.com/video/BV1Db4y1m7Ho?p=80 "P80 081_尚硅谷_爬虫_selenium_交互")
+    -   [ ] [P81 082\_尚硅谷\_爬虫\_selenium\_phantomjs的基本使用](https://www.bilibili.com/video/BV1Db4y1m7Ho?p=81 "P81 082_尚硅谷_爬虫_selenium_phantomjs的基本使用")
+    -   [ ] [P82 083\_尚硅谷\_爬虫\_selenium\_handless](https://www.bilibili.com/video/BV1Db4y1m7Ho?p=82 "P82 083_尚硅谷_爬虫_selenium_handless")
+    -   [ ] [P83 084\_尚硅谷\_爬虫\_requests\_基本使用](https://www.bilibili.com/video/BV1Db4y1m7Ho?p=83 "P83 084_尚硅谷_爬虫_requests_基本使用")
+    -   [ ] [84 084\_尚硅谷\_爬虫\_requests\_基本使用\_Duration-11M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=84 "84 084_尚硅谷_爬虫_requests_基本使用_Duration-11M")
+    -   [ ] [85 085\_尚硅谷\_爬虫\_requests\_get请求\_Duration-12M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=85 "85 085_尚硅谷_爬虫_requests_get请求_Duration-12M")
+    -   [ ] [86 086\_尚硅谷\_爬虫\_requests\_post请求\_Duration-7M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=86 "86 086_尚硅谷_爬虫_requests_post请求_Duration-7M")
+    -   [ ] [87 087\_尚硅谷\_爬虫\_requests\_代理\_Duration-6M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=87 "87 087_尚硅谷_爬虫_requests_代理_Duration-6M")
+    -   [ ] [88 088\_尚硅谷\_爬虫\_requests\_cookie登陆古诗文网\_Duration-40M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=88 "88 088_尚硅谷_爬虫_requests_cookie登陆古诗文网_Duration-40M")
+    -   [ ] [89 089\_尚硅谷\_爬虫\_requests\_超级鹰打码平台的使用\_Duration-7M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=89 "89 089_尚硅谷_爬虫_requests_超级鹰打码平台的使用_Duration-7M")
+    -   [ ] [90 090\_尚硅谷\_爬虫\_scrapy\_安装\_Duration-18M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=90 "90 090_尚硅谷_爬虫_scrapy_安装_Duration-18M")
+    -   [ ] [91 091\_尚硅谷\_爬虫\_scrapy\_基本使用\_Duration-20M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=91 "91 091_尚硅谷_爬虫_scrapy_基本使用_Duration-20M")
+    -   [ ] [92 092\_尚硅谷\_爬虫\_scrapy\_58同城项目结构和基本方法\_Duration-17M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=92 "92 092_尚硅谷_爬虫_scrapy_58同城项目结构和基本方法_Duration-17M")
+    -   [ ] [93 093\_尚硅谷\_爬虫\_scrapy\_汽车之家scrapy工作原理\_Duration-20M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=93 "93 093_尚硅谷_爬虫_scrapy_汽车之家scrapy工作原理_Duration-20M")
+    -   [ ] [94 094\_尚硅谷\_爬虫\_scrapy\_scrapyshell\_Duration-11M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=94 "94 094_尚硅谷_爬虫_scrapy_scrapyshell_Duration-11M")
+    -   [ ] [95 095\_尚硅谷\_爬虫\_scrapy\_当当网爬取数据\_Duration-24M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=95 "95 095_尚硅谷_爬虫_scrapy_当当网爬取数据_Duration-24M")
+    -   [ ] [96 096\_尚硅谷\_爬虫\_scrapy\_当当网管道封装\_Duration-15M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=96 "96 096_尚硅谷_爬虫_scrapy_当当网管道封装_Duration-15M")
+    -   [ ] [97 097\_尚硅谷\_爬虫\_scrapy\_当当网开启多条管道下载\_Duration-6M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=97 "97 097_尚硅谷_爬虫_scrapy_当当网开启多条管道下载_Duration-6M")
+    -   [ ] [98 098\_尚硅谷\_爬虫\_scrapy\_当当网多页下载\_Duration-11M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=98 "98 098_尚硅谷_爬虫_scrapy_当当网多页下载_Duration-11M")
+    -   [ ] [99 099\_尚硅谷\_爬虫\_scrapy\_电影天堂多页数据下载\_Duration-24M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=99 "99 099_尚硅谷_爬虫_scrapy_电影天堂多页数据下载_Duration-24M")
+    -   [ ] [100 100\_尚硅谷\_爬虫\_scrapy\_链接提取器的使用\_Duration-11M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=100 "100 100_尚硅谷_爬虫_scrapy_链接提取器的使用_Duration-11M")
+    -   [ ] [101 101\_尚硅谷\_爬虫\_scrapy\_crawlspider读书网\_Duration-18M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=101 "101 101_尚硅谷_爬虫_scrapy_crawlspider读书网_Duration-18M")
+    -   [ ] [102 102\_尚硅谷\_爬虫\_scrapy\_读书网数据入库和链接跟进\_Duration-21M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=102 "102 102_尚硅谷_爬虫_scrapy_读书网数据入库和链接跟进_Duration-21M")
+    -   [ ] [103 103\_尚硅谷\_爬虫\_scrapy\_日志信息以及日志级别\_Duration-6M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=103 "103 103_尚硅谷_爬虫_scrapy_日志信息以及日志级别_Duration-6M")
+    -   [ ] [104 104\_尚硅谷\_爬虫\_scrapy\_百度翻译post请求\_Duration-8M](https://www.bilibili.com/video/BV1Db4y1m7Ho/?p=104 "104 104_尚硅谷_爬虫_scrapy_百度翻译post请求_Duration-8M")
+-   爬虫课程：2022年Python爬虫入门到实战
+    -   [ ] [1 39.1 爬虫概述\_Duration-60Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=1 "1 39.1 爬虫概述_Duration-60Min")
+    -   [ ] [2 39.2 robots协议\_Duration-35Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=2 "2 39.2 robots协议_Duration-35Min")
+    -   [x] [3 39.3 urllib和requests爬取\_Duration-159Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=3 "3 39.3 urllib和requests爬取_Duration-159Min")
+    -   [ ] [4 39.4 xpath语法\_Duration-140Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=4 "4 39.4 xpath语法_Duration-140Min")
+    -   [ ] [5 39.5 xpath实战\_Duration-22Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=5 "5 39.5 xpath实战_Duration-22Min")
+    -   [ ] [6 39.6 MongoDB安装\_Duration-65Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=6 "6 39.6 MongoDB安装_Duration-65Min")
+    -   [ ] [7 39.7 Bson原理\_Duration-51Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=7 "7 39.7 Bson原理_Duration-51Min")
+    -   [ ] [8 39.8 Mongo的CRUD\_Duration-87Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=8 "8 39.8 Mongo的CRUD_Duration-87Min")
+    -   [ ] [9 40.1 概念和节点遍历\_Duration-86Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=9 "9 40.1 概念和节点遍历_Duration-86Min")
+    -   [ ] [10 40.2 过滤器5种形式\_Duration-49Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=10 "10 40.2 过滤器5种形式_Duration-49Min")
+    -   [ ] [11 40.3 搜索文档树\_Duration-89Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=11 "11 40.3 搜索文档树_Duration-89Min")
+    -   [ ] [12 40.4 RabbitMQ概念和工作队列编程\_Duration-126Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=12 "12 40.4 RabbitMQ概念和工作队列编程_Duration-126Min")
+    -   [ ] [13 40.5 持久化和发布订阅模式\_Duration-68Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=13 "13 40.5 持久化和发布订阅模式_Duration-68Min")
+    -   [ ] [14 40.6 路由和话题模式\_Duration-78Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=14 "14 40.6 路由和话题模式_Duration-78Min")
+    -   [ ] [15 40.7 jsonpath\_Duration-45Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=15 "15 40.7 jsonpath_Duration-45Min")
+    -   [ ] [16 40.8 模拟登录\_Duration-60Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=16 "16 40.8 模拟登录_Duration-60Min")
+    -   [ ] [17 40.9 分布式爬虫\_Duration-94Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=17 "17 40.9 分布式爬虫_Duration-94Min")
+    -   [ ] [18 41.1 分布式爬虫封装\_Duration-147Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=18 "18 41.1 分布式爬虫封装_Duration-147Min")
+    -   [ ] [19 41.2 selenium开发\_Duration-150Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=19 "19 41.2 selenium开发_Duration-150Min")
+    -   [ ] [20 41.3 scrapy初识\_Duration-78Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=20 "20 41.3 scrapy初识_Duration-78Min")
+    -   [ ] [21 41.4 Scrapy入门\_Duration-136Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=21 "21 41.4 Scrapy入门_Duration-136Min")
+    -   [ ] [22 41.5 Pipeline处理和URL提取\_Duration-59Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=22 "22 41.5 Pipeline处理和URL提取_Duration-59Min")
+    -   [ ] [23 41.6 Redis安装\_Duration-55Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=23 "23 41.6 Redis安装_Duration-55Min")
+    -   [ ] [24 41.7 Redis的字符串和位图\_Duration-129Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=24 "24 41.7 Redis的字符串和位图_Duration-129Min")
+    -   [ ] [25 42.1 Redis列表\_Duration-114Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=25 "25 42.1 Redis列表_Duration-114Min")
+    -   [ ] [26 42.2 Redis哈希\_Duration-32Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=26 "26 42.2 Redis哈希_Duration-32Min")
+    -   [ ] [27 42.3 Redis哈希应用和Set\_Duration-69Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=27 "27 42.3 Redis哈希应用和Set_Duration-69Min")
+    -   [ ] [28 42.4 SortedSet\_Duration-118Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=28 "28 42.4 SortedSet_Duration-118Min")
+    -   [ ] [29 42.5 Redis编程\_Duration-58Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=29 "29 42.5 Redis编程_Duration-58Min")
+    -   [ ] [30 42.6 Redis持久化\_Duration-99Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=30 "30 42.6 Redis持久化_Duration-99Min")
+    -   [ ] [31 42.7 主从复制集群\_Duration-178Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=31 "31 42.7 主从复制集群_Duration-178Min")
+    -   [ ] [32 42.8 Scrapy爬取图书实战\_Duration-84Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=32 "32 42.8 Scrapy爬取图书实战_Duration-84Min")
+    -   [ ] [33 43.1 scrapy-redis爬虫实战\_Duration-138Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=33 "33 43.1 scrapy-redis爬虫实战_Duration-138Min")
+    -   [ ] [34 43.2 gogs服务安装\_Duration-59Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=34 "34 43.2 gogs服务安装_Duration-59Min")
+    -   [ ] [35 43.3 Git必会操作\_Duration-139Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=35 "35 43.3 Git必会操作_Duration-139Min")
+    -   [ ] [36 43.4 Git项目开发和多人协作\_Duration-111Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=36 "36 43.4 Git项目开发和多人协作_Duration-111Min")
+    -   [ ] [37 43.5 Git分支合并和工作流\_Duration-53Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=37 "37 43.5 Git分支合并和工作流_Duration-53Min")
+    -   [ ] [38 43.6 图\_Duration-83Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=38 "38 43.6 图_Duration-83Min")
+    -   [ ] [39 43.7 Singleton单例模式\_Duration-53Min](https://www.bilibili.com/video/BV19A4y1S7rY/?p=39 "39 43.7 Singleton单例模式_Duration-53Min")
+
+[\[Py\]re](\[Py]re_maWZzkGxXQoMgndPv9Ee9q.md "\[Py]re")60%
+
+[\[Task\]Django](\[Task]Django_i1YwVRU46Q55kMf2Yd5N9R.md "\[Task]Django")
+
+ESP32
+
+-   ython+ESP32 快速上手（持续更新中） wifi 蓝牙 智能控制 单片机(1720m)(28h)
+    -   [ ] [1 基础01-Thonny+MicroPython+ESP32环境搭建\_Duration-20Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=1 "1 基础01-Thonny+MicroPython+ESP32环境搭建_Duration-20Min")
+    -   [ ] [2 基础02-点亮LED灯\_Duration-20Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=2 "2 基础02-点亮LED灯_Duration-20Min")
+    -   [ ] [3 基础03-PWM呼吸灯\_Duration-21Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=3 "3 基础03-PWM呼吸灯_Duration-21Min")
+    -   [ ] [4 基础04-ESP32链接WIFI\_Duration-23Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=4 "4 基础04-ESP32链接WIFI_Duration-23Min")
+    -   [ ] [5 基础05-PC远程控制LED灯\_Duration-27Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=5 "5 基础05-PC远程控制LED灯_Duration-27Min")
+    -   [ ] [6 基础06-数码管显示数字\_Duration-26Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=6 "6 基础06-数码管显示数字_Duration-26Min")
+    -   [ ] [7 基础07-控制4位数码管\_Duration-35Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=7 "7 基础07-控制4位数码管_Duration-35Min")
+    -   [ ] [8 基础08-8x8点阵屏 显示箭头\_Duration-34Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=8 "8 基础08-8x8点阵屏 显示箭头_Duration-34Min")
+    -   [ ] [9 基础09-i2c控制LCD1602液晶屏\_Duration-29Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=9 "9 基础09-i2c控制LCD1602液晶屏_Duration-29Min")
+    -   [ ] [10 基础10-spi控制240x240\_Duration-30Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=10 "10 基础10-spi控制240x240_Duration-30Min")
+    -   [ ] [11 基础11-240x240显示图片\_Duration-10Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=11 "11 基础11-240x240显示图片_Duration-10Min")
+    -   [ ] [12 基础12-240x240显示gif\_Duration-10Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=12 "12 基础12-240x240显示gif_Duration-10Min")
+    -   [ ] [13 基础13-240x240显示二维码\_Duration-16Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=13 "13 基础13-240x240显示二维码_Duration-16Min")
+    -   [ ] [14 基础14-加快240x240显示二维码\_Duration-15Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=14 "14 基础14-加快240x240显示二维码_Duration-15Min")
+    -   [ ] [15 基础15-项目：手机控制LED灯（1/3）\_Duration-17Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=15 "15 基础15-项目：手机控制LED灯（1/3）_Duration-17Min")
+    -   [ ] [16 基础15-项目：手机控制LED灯（2/3）\_Duration-18Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=16 "16 基础15-项目：手机控制LED灯（2/3）_Duration-18Min")
+    -   [ ] [17 基础15-项目：手机控制LED灯（3/3）\_Duration-9Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=17 "17 基础15-项目：手机控制LED灯（3/3）_Duration-9Min")
+    -   [ ] [18 基础16-控制步进电机\_Duration-15Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=18 "18 基础16-控制步进电机_Duration-15Min")
+    -   [ ] [19 基础17-控制继电器\_Duration-10Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=19 "19 基础17-控制继电器_Duration-10Min")
+    -   [ ] [20 基础18-倾斜传感器\_Duration-6Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=20 "20 基础18-倾斜传感器_Duration-6Min")
+    -   [ ] [21 基础19-震动报警器\_Duration-6Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=21 "21 基础19-震动报警器_Duration-6Min")
+    -   [ ] [22 基础20-温度传感器\_Duration-12Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=22 "22 基础20-温度传感器_Duration-12Min")
+    -   [ ] [23 基础21-PS2摇杆（ADC）\_Duration-15Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=23 "23 基础21-PS2摇杆（ADC）_Duration-15Min")
+    -   [ ] [24 基础22-项目：PS2摇杆控制LED移动\_Duration-6Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=24 "24 基础22-项目：PS2摇杆控制LED移动_Duration-6Min")
+    -   [ ] [25 基础23-4x4矩阵键盘\_Duration-17Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=25 "25 基础23-4x4矩阵键盘_Duration-17Min")
+    -   [ ] [26 基础24-蜂鸣器（有源、无源）\_Duration-10Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=26 "26 基础24-蜂鸣器（有源、无源）_Duration-10Min")
+    -   [ ] [27 基础25-干簧管（磁控开关）\_Duration-3Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=27 "27 基础25-干簧管（磁控开关）_Duration-3Min")
+    -   [ ] [28 基础26-霍尔传感器\_Duration-4Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=28 "28 基础26-霍尔传感器_Duration-4Min")
+    -   [ ] [29 基础27-红外接收\_Duration-19Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=29 "29 基础27-红外接收_Duration-19Min")
+    -   [ ] [30 基础28-光敏传感器\_Duration-5Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=30 "30 基础28-光敏传感器_Duration-5Min")
+    -   [ ] [31 基础29-声音传感器（中断）\_Duration-15Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=31 "31 基础29-声音传感器（中断）_Duration-15Min")
+    -   [ ] [32 基础30-OLED屏幕\_Duration-18Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=32 "32 基础30-OLED屏幕_Duration-18Min")
+    -   [ ] [33 基础31-彩色RGB灯珠\_Duration-19Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=33 "33 基础31-彩色RGB灯珠_Duration-19Min")
+    -   [ ] [34 基础32-人体红外检测\_Duration-9Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=34 "34 基础32-人体红外检测_Duration-9Min")
+    -   [ ] [35 基础33-播放音乐（本地）\_Duration-13Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=35 "35 基础33-播放音乐（本地）_Duration-13Min")
+    -   [ ] [36 基础34-播放音乐（网络）\_Duration-17Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=36 "36 基础34-播放音乐（网络）_Duration-17Min")
+    -   [ ] [37 基础35-有线网络（以太网）\_Duration-16Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=37 "37 基础35-有线网络（以太网）_Duration-16Min")
+    -   [ ] [38 基础36-多线程\_Duration-16Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=38 "38 基础36-多线程_Duration-16Min")
+    -   [ ] [39 基础37A-MAX30102检测 心率\_Duration-7Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=39 "39 基础37A-MAX30102检测 心率_Duration-7Min")
+    -   [ ] [40 基础38A-MAX30102检测 血氧+温度\_Duration-4Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=40 "40 基础38A-MAX30102检测 血氧+温度_Duration-4Min")
+    -   [ ] [41 基础39A-OLED屏幕显示血氧、心率、温度\_Duration-8Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=41 "41 基础39A-OLED屏幕显示血氧、心率、温度_Duration-8Min")
+    -   [ ] [42 基础37B-【代码讲解】检测心率+电路连接\_Duration-34Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=42 "42 基础37B-【代码讲解】检测心率+电路连接_Duration-34Min")
+    -   [ ] [43 基础38B-【代码讲解】检测血氧、温度\_Duration-13Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=43 "43 基础38B-【代码讲解】检测血氧、温度_Duration-13Min")
+    -   [ ] [44 基础38B-【代码讲解】修复心率值\_Duration-15Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=44 "44 基础38B-【代码讲解】修复心率值_Duration-15Min")
+    -   [ ] [45 基础39B-【代码讲解】OLED显示\_Duration-21Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=45 "45 基础39B-【代码讲解】OLED显示_Duration-21Min")
+    -   [ ] [46 基础40-MAX30102-手指夹手3D打印文件\_Duration-5Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=46 "46 基础40-MAX30102-手指夹手3D打印文件_Duration-5Min")
+    -   [ ] [47 小车-底盘安装\_Duration-9Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=47 "47 小车-底盘安装_Duration-9Min")
+    -   [ ] [48 小车01-电机转动\_Duration-15Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=48 "48 小车01-电机转动_Duration-15Min")
+    -   [ ] [49 小车02-前后左右移动\_Duration-19Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=49 "49 小车02-前后左右移动_Duration-19Min")
+    -   [ ] [50 小车03-NRF24L01无线数据收发\_Duration-27Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=50 "50 小车03-NRF24L01无线数据收发_Duration-27Min")
+    -   [ ] [51 小车04-优化升级NRF24L01控制代码\_Duration-31Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=51 "51 小车04-优化升级NRF24L01控制代码_Duration-31Min")
+    -   [ ] [52 小车05-远程控制轮子转动\_Duration-15Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=52 "52 小车05-远程控制轮子转动_Duration-15Min")
+    -   [ ] [53 小车06-PS2远程遥控小车\_Duration-21Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=53 "53 小车06-PS2远程遥控小车_Duration-21Min")
+    -   [ ] [54 小车07-ESP32开机自动运行\_Duration-7Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=54 "54 小车07-ESP32开机自动运行_Duration-7Min")
+    -   [ ] [55 小车08-游戏扩展板\_Duration-6Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=55 "55 小车08-游戏扩展板_Duration-6Min")
+    -   [ ] [56 物联网01-蓝牙BLE程序效果演示\_Duration-8Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=56 "56 物联网01-蓝牙BLE程序效果演示_Duration-8Min")
+    -   [ ] [57 物联网02-蓝牙BLE代码讲解\_Duration-20Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=57 "57 物联网02-蓝牙BLE代码讲解_Duration-20Min")
+    -   [ ] [58 物联网03-舵机\_Duration-14Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=58 "58 物联网03-舵机_Duration-14Min")
+    -   [ ] [59 物联网04-蓝牙BLE控制舵机\_Duration-12Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=59 "59 物联网04-蓝牙BLE控制舵机_Duration-12Min")
+    -   [ ] [60 物联网05-蓝牙20个字节问题\_Duration-8Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=60 "60 物联网05-蓝牙20个字节问题_Duration-8Min")
+    -   [ ] [61 物联网06-MQTT快速上手1\_Duration-33Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=61 "61 物联网06-MQTT快速上手1_Duration-33Min")
+    -   [ ] [62 物联网07-MQTT快速上手2-电脑控制LED\_Duration-19Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=62 "62 物联网07-MQTT快速上手2-电脑控制LED_Duration-19Min")
+    -   [ ] [63 物联网08-MQTT快速上手3-手机控制LED\_Duration-13Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=63 "63 物联网08-MQTT快速上手3-手机控制LED_Duration-13Min")
+    -   [ ] [64 物联网09-32x16点阵屏显示时间\_Duration-24Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=64 "64 物联网09-32x16点阵屏显示时间_Duration-24Min")
+    -   [ ] [65 物联网10-32x16大数字\_Duration-22Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=65 "65 物联网10-32x16大数字_Duration-22Min")
+    -   [ ] [66 物联网11-32x16显示4位数\_Duration-10Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=66 "66 物联网11-32x16显示4位数_Duration-10Min")
+    -   [ ] [67 物联网12-32x16显示互联网时间\_Duration-10Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=67 "67 物联网12-32x16显示互联网时间_Duration-10Min")
+    -   [ ] [68 物联网13-32x16数字滚动显示\_Duration-16Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=68 "68 物联网13-32x16数字滚动显示_Duration-16Min")
+    -   [ ] [69 物联网14-32x16滚动显示时间\_Duration-12Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=69 "69 物联网14-32x16滚动显示时间_Duration-12Min")
+    -   [ ] [70 物联网15-墨水屏-显示图片\_Duration-19Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=70 "70 物联网15-墨水屏-显示图片_Duration-19Min")
+    -   [ ] [71 物联网16-墨水屏-调整文字显示方向\_Duration-14Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=71 "71 物联网16-墨水屏-调整文字显示方向_Duration-14Min")
+    -   [ ] [72 物联网17-墨水屏-wifi、日历、图片\_Duration-34Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=72 "72 物联网17-墨水屏-wifi、日历、图片_Duration-34Min")
+    -   [ ] [73 物联网18-4G+UART串口\_Duration-15Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=73 "73 物联网18-4G+UART串口_Duration-15Min")
+    -   [ ] [74 墨水屏组装1-屏与外壳\_Duration-5Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=74 "74 墨水屏组装1-屏与外壳_Duration-5Min")
+    -   [ ] [75 墨水屏组装2-后壳与esp32\_Duration-4Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=75 "75 墨水屏组装2-后壳与esp32_Duration-4Min")
+    -   [ ] [76 墨水屏组黄3-esp32链接电路\_Duration-3Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=76 "76 墨水屏组黄3-esp32链接电路_Duration-3Min")
+    -   [ ] [77 墨水屏组装4-手机支架\_Duration-4Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=77 "77 墨水屏组装4-手机支架_Duration-4Min")
+    -   [ ] [78 机械臂1-整体介绍\_Duration-7Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=78 "78 机械臂1-整体介绍_Duration-7Min")
+    -   [ ] [79 机械臂2-烧录MicroPython\_Duration-4Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=79 "79 机械臂2-烧录MicroPython_Duration-4Min")
+    -   [ ] [80 机械臂3-控制电机转动\_Duration-23Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=80 "80 机械臂3-控制电机转动_Duration-23Min")
+    -   [ ] [81 机械臂4-控制转速\_Duration-12Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=81 "81 机械臂4-控制转速_Duration-12Min")
+    -   [ ] [82 机械臂5-控制角度\_Duration-8Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=82 "82 机械臂5-控制角度_Duration-8Min")
+    -   [ ] [83 机械臂6-3轴转动\_Duration-12Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=83 "83 机械臂6-3轴转动_Duration-12Min")
+    -   [ ] [84 机械臂7-PyQt桌面程序控制3轴\_Duration-16Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=84 "84 机械臂7-PyQt桌面程序控制3轴_Duration-16Min")
+    -   [ ] [85 机械臂8-角度与脉冲关系\_Duration-7Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=85 "85 机械臂8-角度与脉冲关系_Duration-7Min")
+    -   [ ] [86 机械臂9-电机5种步进模式\_Duration-6Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=86 "86 机械臂9-电机5种步进模式_Duration-6Min")
+    -   [ ] [87 机械臂10-调速\_Duration-9Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=87 "87 机械臂10-调速_Duration-9Min")
+    -   [ ] [88 机械臂11-逆向运动学1-水平\_Duration-14Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=88 "88 机械臂11-逆向运动学1-水平_Duration-14Min")
+    -   [ ] [89 机械臂12-逆向运动学2-低\_Duration-7Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=89 "89 机械臂12-逆向运动学2-低_Duration-7Min")
+    -   [ ] [90 机械臂13-逆向运动学3-高\_Duration-5Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=90 "90 机械臂13-逆向运动学3-高_Duration-5Min")
+    -   [ ] [91 机械臂14+滑轨=4轴机械臂\_Duration-3Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=91 "91 机械臂14+滑轨=4轴机械臂_Duration-3Min")
+    -   [ ] [92 机械臂15-夹手\_Duration-10Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=92 "92 机械臂15-夹手_Duration-10Min")
+    -   [ ] [93 机械臂16-上位机控制夹手\_Duration-4Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=93 "93 机械臂16-上位机控制夹手_Duration-4Min")
+    -   [ ] [94 机械臂17-吸盘（上位机控制）\_Duration-10Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=94 "94 机械臂17-吸盘（上位机控制）_Duration-10Min")
+    -   [ ] [95 ESP32-CAM-01-环境搭建\_Duration-17Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=95 "95 ESP32-CAM-01-环境搭建_Duration-17Min")
+    -   [ ] [96 ESP32-CAM底板的说明\_Duration-6Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=96 "96 ESP32-CAM底板的说明_Duration-6Min")
+    -   [ ] [97 ESP32-CAM-02-修复摄像头初始化失败\_Duration-5Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=97 "97 ESP32-CAM-02-修复摄像头初始化失败_Duration-5Min")
+    -   [ ] [98 ESP32-CAM-03-实时显示摄像头画面\_Duration-11Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=98 "98 ESP32-CAM-03-实时显示摄像头画面_Duration-11Min")
+    -   [ ] [99 ESP32-CAM-04-3D外壳\_Duration-2Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=99 "99 ESP32-CAM-04-3D外壳_Duration-2Min")
+    -   [ ] [100 ESP32-CAM-05-录制视频\_Duration-6Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=100 "100 ESP32-CAM-05-录制视频_Duration-6Min")
+    -   [ ] [101 ESP32-CAM-06-PC端界面更新\_Duration-5Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=101 "101 ESP32-CAM-06-PC端界面更新_Duration-5Min")
+    -   [ ] [102 ESP32-CAM-07-PC端界面更新-代码\_Duration-13Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=102 "102 ESP32-CAM-07-PC端界面更新-代码_Duration-13Min")
+    -   [ ] [103 ESP32-CAM-08-SD存储卡\_Duration-7Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=103 "103 ESP32-CAM-08-SD存储卡_Duration-7Min")
+    -   [ ] [104 ESP32-CAM-09-闪光灯\_Duration-6Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=104 "104 ESP32-CAM-09-闪光灯_Duration-6Min")
+    -   [ ] [105 滑轨-01-介绍\_Duration-9Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=105 "105 滑轨-01-介绍_Duration-9Min")
+    -   [ ] [106 传送带-01-TB6600控制42步进电机\_Duration-20Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=106 "106 传送带-01-TB6600控制42步进电机_Duration-20Min")
+    -   [ ] [107 传送带-02-传送带\_Duration-4Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=107 "107 传送带-02-传送带_Duration-4Min")
+    -   [ ] [108 LVGL-00-准备：软件+硬件\_Duration-9Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=108 "108 LVGL-00-准备：软件+硬件_Duration-9Min")
+    -   [ ] [109 LVGL-01-移植ESP32成功效果展示\_Duration-0Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=109 "109 LVGL-01-移植ESP32成功效果展示_Duration-0Min")
+    -   [ ] [110 LVGL-02-PCB连接板效果\_Duration-0Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=110 "110 LVGL-02-PCB连接板效果_Duration-0Min")
+    -   [ ] [111 LVGL-03-3D打印底壳效果\_Duration-0Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=111 "111 LVGL-03-3D打印底壳效果_Duration-0Min")
+    -   [ ] [112 LVGL-04-第一个按钮程序\_Duration-30Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=112 "112 LVGL-04-第一个按钮程序_Duration-30Min")
+    -   [ ] [113 LVGL-05-显示中文-1-工具\_Duration-9Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=113 "113 LVGL-05-显示中文-1-工具_Duration-9Min")
+    -   [ ] [114 LVGL-06-显示中文-2-制作\_Duration-6Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=114 "114 LVGL-06-显示中文-2-制作_Duration-6Min")
+    -   [ ] [115 LVGL-07-显示中文-3-代码\_Duration-6Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=115 "115 LVGL-07-显示中文-3-代码_Duration-6Min")
+    -   [ ] [116 LVGL-08-滑杆slider\_Duration-13Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=116 "116 LVGL-08-滑杆slider_Duration-13Min")
+    -   [ ] [117 LVGL-09-显示图片\_Duration-9Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=117 "117 LVGL-09-显示图片_Duration-9Min")
+    -   [ ] [118 LVGL-10-画线\_Duration-10Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=118 "118 LVGL-10-画线_Duration-10Min")
+    -   [ ] [119 LVGL-11-圆弧\_Duration-7Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=119 "119 LVGL-11-圆弧_Duration-7Min")
+    -   [ ] [120 LVGL-12-进度条\_Duration-15Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=120 "120 LVGL-12-进度条_Duration-15Min")
+    -   [ ] [121 LVGL-13-进度条案例：温度\_Duration-10Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=121 "121 LVGL-13-进度条案例：温度_Duration-10Min")
+    -   [ ] [122 LVGL-14-仪表盘\_Duration-18Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=122 "122 LVGL-14-仪表盘_Duration-18Min")
+    -   [ ] [123 LVGL-15-定时器\_Duration-6Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=123 "123 LVGL-15-定时器_Duration-6Min")
+    -   [ ] [124 LVGL-16-实时温度\_Duration-7Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=124 "124 LVGL-16-实时温度_Duration-7Min")
+    -   [ ] [125 LVGL-17-数字键盘\_Duration-19Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=125 "125 LVGL-17-数字键盘_Duration-19Min")
+    -   [ ] [126 LVGL-18-密码锁\_Duration-9Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=126 "126 LVGL-18-密码锁_Duration-9Min")
+    -   [ ] [127 LVGL-19-控制LED开关\_Duration-14Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=127 "127 LVGL-19-控制LED开关_Duration-14Min")
+    -   [ ] [128 吸盘-01-效果展示\_Duration-6Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=128 "128 吸盘-01-效果展示_Duration-6Min")
+    -   [ ] [129 吸盘-02-3D打印外壳\_Duration-4Min](https://www.bilibili.com/video/BV1G34y1E7tE/?p=129 "129 吸盘-02-3D打印外壳_Duration-4Min")
+
