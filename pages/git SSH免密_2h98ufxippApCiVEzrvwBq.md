@@ -1,9 +1,7 @@
 # git SSH免密
 
 -   \[Win]ssh路径
-
     %HOMEPATH%\\.sshssh配置相关路径
-
     %HOMEPATH%\\.ssh\configSSH配置
     -   示例：
         ```纯文本
@@ -16,13 +14,9 @@
           IdentityFile "F:\Profession\doc\key\gitee&github\id_rsa"   # 指定密钥路径, 不指定默认为%HOMEPATH%\.ssh\id-rsa
         ```
     %HOMEPATH%\\.ssh\id-rsaSSH密钥存放文件
-
     %HOMEPATH%\\.ssh
-
     %HOMEPATH%\\.ssh\config
-
     IdentityFile
-
     %HOMEPATH%\\.ssh\id-rsa
 
 ***
@@ -321,7 +315,6 @@
         2.  `git config --global core.sshCommand "ssh -i /path/to/your/privateKey"`
         -   设置完成检查配置：`git config --global core.sshCommand`
         -   恢复默认配置：`git config --global --unset core.sshCommand`
-
             要恢复SSH密钥路径的默认配置，你可以按照以下步骤操作：
             1.  打开 Git Bash 或 Windows 终端。
             2.  运行以下命令，将SSH命令配置恢复为默认值：
