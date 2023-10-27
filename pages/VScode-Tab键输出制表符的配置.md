@@ -8,4 +8,4 @@
   },
 ```
 
-![](image/image_LY9A45K2sg.png)
+![](../image/image_LY9A45K2sg.png)
