@@ -1,4 +1,4 @@
-![[VScode 打开setting.json文件.png]]
+![](VScode打开setting.Json文件.png)
 ```
   "[yaml]": {
     // Tab键输出制表符
@@ -6,5 +6,4 @@
     "editor.detectIndentation": false,
   },
 ```
-
 

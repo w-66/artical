@@ -344,6 +344,5 @@
         ED25519 key fingerprint is SHA256:+ULzij2u99B9eWYFTw1Q4ErYG/aepHLbu96PAUCoV88.
         This key is not known by any other names
         Are you sure you want to continue connecting (yes/no/\[fingerprint])?
-
         ![](../image/image_om2MGgPQzk.png)
 
