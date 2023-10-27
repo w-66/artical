@@ -1,4 +1,4 @@
-![](VScode打开setting.Json文件.png)
+![](VScode打开setting文件.png)
 ```
   "[yaml]": {
     // Tab键输出制表符
