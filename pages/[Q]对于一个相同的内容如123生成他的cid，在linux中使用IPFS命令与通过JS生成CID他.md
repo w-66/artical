@@ -1,6 +1,6 @@
 # \[Q]对于一个相同的内容如123生成他的cid，在linux中使用IPFS命令与通过JS生成CID他们之间的CID不一样
 
-\[A]答案：linux中的echo默认末尾带有换行符，JS生成的则只是字符串的哈希，所以通过ipfs block stat可以看到他们字节相差一个，也就是那个换行符造成的，只要取消换行符得到CID就相同。 \[[\[Linux\]echo](https://www.wolai.com/ru54t3YUTsZYFSXo4edTYi "\[Linux]echo")`-n`; CID inspector,`ipfs block put`, `ipfs block stat`, \[JS]TextEncoder]
+\[A]答案：linux中的echo默认末尾带有换行符，JS生成的则只是字符串的哈希，所以通过ipfs block stat可以看到他们字节相差一个，也就是那个换行符造成的，只要取消换行符得到CID就相同。`echo -n`; CID inspector,`ipfs block put`, `ipfs block stat`, \[JS]TextEncoder]
 
 ```json
 bash-5.1# echo -n 123 | ipfs block put
